@@ -1,0 +1,9 @@
+*.jpg
+*.pth
+*.csv
+*.txt
+*.npy
+__pycache__
+.idea/
+runs/
+*.mp4
