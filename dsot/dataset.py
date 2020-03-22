@@ -25,11 +25,11 @@ z_transforms = Compose([
 
 class COCODataset(torch.utils.data.Dataset):
     def __init__(
-            self,
-            config,
-            train_dir="/home/rex/datasets/coco2017/SiamFCCrop511/train2017",
-            anno_file="/home/rex/datasets/coco2017/SiamFCCrop511_anno/train2017.json",
-            eval_mode=False):
+        self,
+        config,
+        train_dir="/home/rex/datasets/coco2017/SiamFCCrop511/train2017",
+        anno_file="/home/rex/datasets/coco2017/SiamFCCrop511_anno/train2017.json",
+        eval_mode=False):
         """
 
         Args:
