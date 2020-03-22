@@ -25,4 +25,6 @@ Training for 20 epochs already results ina  good model (refer video), training f
 
 ## TODO
 
-1. Add improvements from SiamRPN++
+- [ ] Move config to yaml
+- [ ] Add inferencer from private repo
+- [ ] Add improvements from SiamRPN++ to improve accuracy
