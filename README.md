@@ -2,7 +2,7 @@
 
 ## Introduction
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/AjA-RN_Db9w/0.jpg)](http://www.youtube.com/watch?v=AjA-RN_Db9w)
+[![Single object tracking using detectron2](data/youtube_thumbnail.jpg)](http://www.youtube.com/watch?v=AjA-RN_Db9w)
 
 This repository demonstrates construction of a Single Object Tracker (SOT) using the [detectron2](https://github.com/facebookresearch/detectron2) framework. We mainly reuse the Anchor generation part and rewrite the RPN network to suit Object tracking.
 
